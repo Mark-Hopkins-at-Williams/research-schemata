@@ -1,4 +1,4 @@
-# Model Probing using Sentence Pair Schema
+# Model Probing Using Sentence Pair Schema
 
 To evaluate the Berkeley parser on schema file 'pp1.asc', do the following
 in the Terminal:
