@@ -41,13 +41,13 @@ She announced names [ in order to be fair ] .
 Valerie noticed { the boy with surprise } .
 Valerie noticed [ the boy with freckles ] .
 I inspected { the car with skepticism } .
-I inspected [ the car with scratches } .
+I inspected [ the car with scratches ] .
 Michelle drove by { the lake in a hurry } .
 Michelle drove by [ the lake in Beaverton ] .
 Sam took { the test from home } .
 Sam took [ the test from chemistry class ] .
 David went to { the supermarket on Tuesday } .
-David went to [ the supermarket on 82nd ]. 
+David went to [ the supermarket on 82nd ] . 
 I will be at { the coffee shop by eight } .
 I will be at [ the coffee shop by the red building ] .
 She glanced at { the bag for a brief moment } .
@@ -58,7 +58,7 @@ I laughed at { an old picture in embarrassment } .
 I laughed at [ an old picture in the yearbook ] .
 Rengar jumped in { a bush by accident } . 
 Rengar jumped in [ a bush by the road ] .
-Justin paints { plants from time to time }.
+Justin paints { plants from time to time } .
 Justin paints [ plants from his garden ] .
 Yuna bought { the dress without looking at her bank statement } .
 Yuna bought [ the dress without straps ] .

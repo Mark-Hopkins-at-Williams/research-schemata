@@ -33,7 +33,10 @@ Then open python and download the Berkeley parser model:
 
 Then in a Python interpreter, do the following:
 
-    schemas = AttachmentSchema.from_plaintext_file('pp1.asc')
+
+    from schemata.parse.evaluate import * 
+    from schemata.parse.berkeley import *
+    schemas = AttachmentSchema.from_plaintext_file('data/pp1.asc')
     evaluate(schemas, BerkeleyParser())        
 
 
