@@ -1,6 +1,6 @@
 import unittest
 
-from biaffine import BiaffineParser
+from schemata.parse.biaffine import BiaffineParser
 
 class TestBiaffine(unittest.TestCase):
     
