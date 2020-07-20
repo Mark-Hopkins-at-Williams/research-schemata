@@ -1,4 +1,5 @@
 import benepar
+import sys
 
 class BerkeleyParser:
     def __init__(self, model = "benepar_en2"):
@@ -25,3 +26,18 @@ class BerkeleyParser:
             return result
         tree = self.parser.parse(sent)
         return set(get_spans_helper(tree.treepositions(), 0))
+
+
+if __name__ == '__main__':
+    sentfile = sys.argv[1]
+    outfile = sys.argv[2]
+    parser = BerkeleyParser()
+    with open(sentfile) as reader:
+        with open(outfile, 'w') as writer:
+            for line in reader:
+                line = line.strip()
+                output = parser(line)
+                writer.write(str(output))
+                writer.write('\n')
+        
+    

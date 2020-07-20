@@ -1,6 +1,6 @@
 import unittest
 
-from evaluate import HighlightedSpan, AttachmentSchema
+from schemata.parse.evaluate import HighlightedSpan, AttachmentSchema
 
 class TestEvaluate(unittest.TestCase):
 
@@ -25,7 +25,7 @@ class TestEvaluate(unittest.TestCase):
         assert hspan.accept({(2,3), (2,6)})
 
     def test_from_plaintext_file(self):
-        schemas = AttachmentSchema.from_plaintext_file('pp1.asc')
+        schemas = AttachmentSchema.from_plaintext_file('data/pp1.asc')
         schema = next(schemas)
         assert not schema.accept({(2,3), (2,7)}, ({(2,3), (2,7)}))
         assert not schema.accept({(2,3), (3,12)}, ({(2,3), (3,12)}))

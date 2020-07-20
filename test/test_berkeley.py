@@ -1,6 +1,6 @@
 import unittest
 
-from berkeley import BerkeleyParser
+from schemata.parse.berkeley.berkeley import BerkeleyParser
 
 class TestEvaluate(unittest.TestCase):
     

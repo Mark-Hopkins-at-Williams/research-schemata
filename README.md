@@ -1,4 +1,25 @@
-# Model Probing using Sentence Pair Schema
+# Model Probing Using Sentence Pair Schema
+
+### To locally install the schemata package:
+
+From the top-level directory:
+
+    pip install -e .
+
+### To run all unit tests
+
+From the top-level directory, run: 
+    
+    python3 -m unittest
+
+### To run a particular unit test module (e.g. test/test_align.py)
+
+From the top-level directory, run:
+
+    python3 -m unittest test.test_berkeley
+    
+
+
 
 To evaluate the Berkeley parser on schema file 'pp1.asc', do the following
 in the Terminal:
