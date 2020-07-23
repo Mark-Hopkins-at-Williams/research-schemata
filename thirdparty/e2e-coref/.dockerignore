@@ -1,0 +1,6 @@
+saved/
+__pycache__/
+*.tgz
+.git/
+.DS_Store/
+.gitignore
