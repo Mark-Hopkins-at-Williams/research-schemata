@@ -1,0 +1,12 @@
+eat spoiled
+eat full
+buy expensive
+buy poor
+lift heavy
+lift tired
+pick dirty
+pick disgusted
+like scratched
+like disappointed
+touch sharp
+touch scared
