@@ -11,6 +11,7 @@ import nltk
 nltk.download("punkt")
 from nltk.tokenize import sent_tokenize, word_tokenize
 
+
 def create_example(text):
   raw_sentences = sent_tokenize(text)
   sentences = [word_tokenize(s) for s in raw_sentences]
@@ -27,7 +28,7 @@ def print_predictions(example):
   for cluster in example["predicted_clusters"]:
     print(u"Predicted cluster: {}".format([" ".join(words[m[0]:m[1]+1]) for m in cluster]))
 
-def make_predictions(text, model):
+def make_predictions(text, model, session):
   example = create_example(text)
   tensorized_example = model.tensorize_example(example, is_training=False)
   feed_dict = {i:t for i,t in zip(model.input_tensors, tensorized_example)}
@@ -39,18 +40,57 @@ def make_predictions(text, model):
   example["top_spans"] = zip((int(i) for i in mention_starts), (int(i) for i in mention_ends))
   example["head_scores"] = head_scores.tolist()
   return example
-
 # New functions
 def format_predictions(example):
     results = []
     words = util.flatten(example["sentences"])
     for cluster in example["predicted_clusters"]:
+      print(cluster)
       oneCluster = [" ".join(words[m[0]:m[1]+1]) for m in cluster]
       results.append(oneCluster)
     return results
     
-def createSchema(verb, adj):
+def create_schema(verb, adj):
     return "they did not " + verb + " them because they were " + adj
+
+
+def generate_coref_input(passage):
+    speakers = []
+    for sent in passage:
+        speakers.append(['spk1' for x in sent])
+    return {"clusters": [], "doc_key": "nw", 
+            "sentences": passage, 
+            "speakers": speakers}
+
+def coref(model, passages):
+    result = []
+    with tf.Session() as session:
+        model.restore(session)
+        for example_num, passage in enumerate(passages):
+            example = generate_coref_input(passage)
+            tensorized_example = model.tensorize_example(example, is_training=False)
+            feed_dict = {i:t for i,t in zip(model.input_tensors, tensorized_example)}
+            _, _, _, top_span_starts, top_span_ends, top_antecedents, top_antecedent_scores = session.run(model.predictions, feed_dict=feed_dict)
+            predicted_antecedents = model.get_predicted_antecedents(top_antecedents, top_antecedent_scores)
+            example["predicted_clusters"], _ = model.get_predicted_clusters(top_span_starts, top_span_ends, predicted_antecedents)
+            result.append(example)
+    return result
+
+def they_or_them(model, verb_adj_pairs):
+    resultDict = {}
+    for verb, adj in verb_adj_pairs:
+        sentence = create_schema(verb, adj) # Create string of full sentence for prediction
+        toks = sentence.split()
+        passage = [toks]
+        passages = [passage]
+        predictions = coref(model, passages)
+        for prediction in predictions:
+            formatted = format_predictions(prediction)
+            if "them" in formatted[0]:
+                resultDict["them"] = resultDict.get("them", []) + [(verb, adj)]
+            else:
+                resultDict["they"] = resultDict.get("they", []) + [(verb, adj)]
+    return resultDict
 
 if __name__ == "__main__":
   config = util.initialize_from_env()
@@ -62,8 +102,8 @@ if __name__ == "__main__":
     for line in open(fileName, 'r'): # Read file line by line and get predictions
         oneLine = line.strip().split()
         verb, adj = tuple(oneLine)
-        sentence = createSchema(verb, adj) # Create string of full sentence for prediction
-        predictions = format_predictions(make_predictions(sentence, model)) #returns list of list
+        sentence = create_schema(verb, adj) # Create string of full sentence for prediction
+        predictions = format_predictions(make_predictions(sentence, model, session)) #returns list of list
         if "them" in predictions[0]:
             resultDict["them"] = resultDict.get("them", []) + [(verb, adj)]
         else:
