@@ -109,7 +109,7 @@ She traveled to { her high school friend’s house by plane } .
 I ran into my friend at { New Seasons by coincidence } .
 I ran into my friend at [ New Seasons by the froyo place ] .
 I am craving { chocolate or cookies } and cream ice cream .
-I am craving [ strawberry or pineapple popsiciles ] and mango ice cream .
+I am craving [ strawberry or pineapple popsicles ] and mango ice cream .
 Chris wants to eat { lasagna or spaghetti } and meatballs .
 Chris wants to eat [ garlic or sourdough bread ] and meatballs .
 Justine shared [ a chocolate chip cookie with ice cream ] .
@@ -118,3 +118,43 @@ Ryan went on [ a walk with his cat ] .
 Ryan went on { a walk with high hopes } .
 The girl couldn’t stop staring at [ the dog with the bowtie ] .
 The girl couldn’t stop staring at { the dog with adoration } .
+I had { a question on Wednesday } . 
+I had [ a question on integrals ] .
+Erin was { the keynote speaker for certain } . 
+Erin was [ the keynote speaker for the hackathon ] .
+She emphasized { the importance of leadership in an instant } .
+She emphasized [ the importance of leadership in her presentation ] .
+He took [ a picture of the succulent in the glass jar ] .
+He took { a picture of the succulent in addition to the flower } .
+Michelle offered to attend [ the fair in Orange County ] .
+Michelle offered to attend { the fair in advance } .
+Vicki suggested that they start with [ an icebreaker at their team meeting ] .
+Vicki suggested that they start with { an icebreaker at the last minute } .
+Alex loved { his team from the bottom of his heart } .
+Alex loved [ his team from Etsy ] .
+Anna works on { her assignment from time to time } .
+Anna works on [ her assignment from art class ] .
+Kathy is working on [ a project under the supervision of her manager Linda ] .
+Kathy is working on { a project under immense pressure } .
+Sabrina ran down { the stairs in excitement } .
+Sabrina ran down [ the stairs in her house ] .
+Yeji checked on [ the patient with a kidney infection ] .
+Yeji checked on { the patient with her assistant } . 
+Gabriel fell asleep on { the couch by himself } .
+Gabriel fell asleep on [ the couch by the TV ] .
+She ordered [ a salad with ranch dressing ] .
+She ordered { a salad with her friend } .
+Joan couldn’t wait to show off [ her new shoes with rhinestones ] .
+Joan couldn’t wait to show off { her new shoes with her favorite outfit } .
+She blasted [ the song Go Crazy with the heavy bass ] .
+She blasted { the song Go Crazy with a smile on her face } .
+He took [ a video of the crashing waves at the beach ] .
+He took { a video of the crashing waves at noon } .
+I couldn’t choose between [ chocolate or peanut butter cookies ] and cupcakes .
+I couldn’t choose between { chocolates or Salt } and Straw ice cream .
+I wanted to buy a [ floral or striped shirt ] and jeans .
+I wanted to buy a { floral or black } and white top .
+I love going to [ Tea Chai Te on Sellwood ] .
+I love going to { Tea Chai Te on Wednesdays } .
+She freaked out because she couldn’t catch [ that spider on the wall ] .
+She freaked out because she couldn’t catch { that spider on Monday } .
