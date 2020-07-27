@@ -4,6 +4,9 @@ from schemata.parse.evaluate import HighlightedSpan, AttachmentSchema
 
 class TestEvaluate(unittest.TestCase):
 
+    def setUp(self):
+        pass
+
     def test_from_plaintext(self):
         hspan = HighlightedSpan.from_plaintext('He found [ the top to the jar ] .')
         assert hspan.tokens == ['He', 'found', 'the', 'top', 'to', 

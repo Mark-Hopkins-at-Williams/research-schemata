@@ -16,13 +16,16 @@ import tensorflow as tf
 import pyhocon
 
 
-def initialize_from_env():
+def initialize_from_env(config_name = None):
   if "GPU" in os.environ:
     set_gpus(int(os.environ["GPU"]))
   else:
     set_gpus()
 
-  name = sys.argv[1]
+  if config_name is None:
+      name = sys.argv[1]
+  else:
+      name = config_name
   print("Running experiment: {}".format(name))
 
   config = pyhocon.ConfigFactory.parse_file("experiments.conf")[name]

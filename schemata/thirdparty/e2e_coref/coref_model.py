@@ -13,10 +13,10 @@ import tensorflow as tf
 import tensorflow_hub as hub
 import h5py
 
-import util
-import coref_ops
-import conll
-import metrics
+from schemata.thirdparty.e2e_coref import util
+from schemata.thirdparty.e2e_coref import coref_ops
+from schemata.thirdparty.e2e_coref import conll
+from schemata.thirdparty.e2e_coref import metrics
 
 class CorefModel(object):
   def __init__(self, config):
