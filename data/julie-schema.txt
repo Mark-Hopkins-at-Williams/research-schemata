@@ -158,3 +158,43 @@ I love going to [ Tea Chai Te on Sellwood ] .
 I love going to { Tea Chai Te on Wednesdays } .
 She freaked out because she couldn’t catch [ that spider on the wall ] .
 She freaked out because she couldn’t catch { that spider on Monday } .
+I wanted to buy [ wings with parmesan garlic sauce ] .
+I wanted to buy { wings with my friends } .
+She tripped on [ the curb at Sunnyside ] .
+She tripped on { the curb at dusk } .
+He missed { the exit on a whim } .
+He missed [ the exit on Highway 205 ] .
+Wendy was stressfully studying for { her final in a hurry } .
+Wendy was stressfully studying for [ her final in chemistry ] .
+Jose was talking about [ his project on cybersecurity ] .
+Jose was talking about { his project on Zoom } .
+I couldn’t wait to see [ the monkey on the swings ] .
+I couldn’t wait to see { the monkey on Friday } .
+She stared at [ the sky with the pinkish orange hues ] .
+She stared at { the sky with a smile on her face } .
+Her dad memorized { the directions to the coffee shop by heart } .
+Her dad memorized [ the directions to the coffee shop by Pioneer Square ] .
+You won’t be allowed to play { games on my watch } .
+You won’t be allowed to play [ games on your PS4 ] .
+She admired [ the cherry blossoms in the quad ] .
+She admired { the cherry blossoms in admiration } .
+The teacher emphasized to meet in { the gym on time } .
+The teacher emphasized to meet in [ the gym on East Campus ] .
+I stared at [ the necklace with star shaped diamonds ] .
+I stared at { the necklace with my sister } .
+Roman got an invite to [ the party at Scott’s place ] .
+Roman got an invite to { the party at a price } .
+The team successfully launched [ a product in the makeup industry ] .
+The team successfully launched { a product in an unexpected way } .
+I have enough money to buy a [ Logitech or Apple keyboard ] and laptop stand .
+I have enough money to buy a { monitor or Apple keyboard } and mouse .
+She watched as the firefighter entered [ the room in flames ] .
+She watched as the firefighter entered { the room in nervous anticipation } .
+I am so excited to pick up { my package from the post office } .
+I am so excited to pick up [ my package from Aritzia ] .
+He asked his mom to make [ tuna or spam kimchi fried rice ] and kimbap .
+He asked his mom to make { kimchi stew or ramen } and kimbap .
+She visited her local beauty store to buy [ brown or blonde hair dye ] and toner .
+She visited her local beauty store to buy { brown hair dye or bleach } and toner .
+I wanted to buy { a trampoline with my siblings } .
+I wanted to buy [ a trampoline with nets ] . 
