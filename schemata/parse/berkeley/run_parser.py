@@ -7,8 +7,8 @@ import sys
 nltk.download('punkt')
 benepar.download('benepar_en2')
 
-from evaluate import *
-from berkeley import *
+from schemata.evaluate import evaluate, AttachmentSchema
+from schemata.parse.berkeley import BerkeleyParser
 
 file = sys.argv[1]
 schemas = AttachmentSchema.from_plaintext_file("data/" + file)

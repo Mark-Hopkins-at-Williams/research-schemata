@@ -1,39 +1,16 @@
 import bllipparser
 import sys
-
-from nltk.tree import *
 from bllipparser import RerankingParser
+from schemata.parse.util import ConstituencyParserWrapper
 
-
-class BLLIP:
+class BLLIP(ConstituencyParserWrapper):
     def __init__(self, model = "WSJ-PTB3"):
-        self.parser = RerankingParser.fetch_and_load(model, verbose=True)
-
-    def __call__(self, sent):
-        return self.get_spans(sent)
-
-    def get_spans(self, sent):
-        def get_spans_helper(treepositions, start_index):
-            children = sorted([position for position in treepositions
-                               if len(position) == 1])
-            if len(children) == 0:
-                return [(start_index, start_index+1)]
-            result = []
-            orig_start_index = start_index
-            for child in children:
-                descendants = [position[1:] for position in treepositions
-                               if len(position) > 0 and position[0] == child[0]]
-                child_spans = get_spans_helper(descendants, start_index)
-                result += child_spans
-                start_index = child_spans[0][1]
-            result = [(orig_start_index, start_index)] + result
-            return result
-        intermediate = self.parser.parse(sent)
-        tree = intermediate.fuse()
-        print(tree)
-        #sentence = self.parser.simple_parse(sent)
-        #tree = bllipparser.Tree(sentence)
-        return set(get_spans_helper(tree.treepositions(), 0))
+        super().__init__(RerankingParser.fetch_and_load(model, verbose=True))
+                         
+    def _run_base_parser(self, sent):
+        intermediate = self.base_parser.parse(sent)
+        tree = intermediate.fuse().as_nltk_tree()
+        return tree
 
 
 if __name__ == '__main__':

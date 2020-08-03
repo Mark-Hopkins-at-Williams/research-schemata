@@ -27,7 +27,7 @@ def get_spans(tree):
         desc = descendents(tree,i)
         # we ignore one-word constituents
         if len(desc) > 1 and len(desc) < len(tree):
-            spans.append([min(desc)-1,max(desc)])
+            spans.append((min(desc)-1,max(desc)))
     return spans
           
 
@@ -41,6 +41,7 @@ class BiaffineParser:
     def get_spans(self, sent):
         json_parse = self.parser.predict(sentence=sent)
         heads = json_parse['predicted_heads']
-        return heads # This gives the head word of each token.
-        # TODO: convert these heads into a list of the constituent spans.
-        # see test_biaffine.py to look at an example input/output.
+        tree = head_to_tree(heads)
+        non_singletons = get_spans(tree)
+        singletons = [(n,n+1) for n in range(len(heads))]
+        return set(non_singletons) | set(singletons)
