@@ -1,0 +1,240 @@
+Lee crossed { the bridge with fear } .
+Lee crossed [ the bridge with railings ] .
+James saw { the girl with a telescope } .
+James saw [ the girl with a scooter ] .
+They showcased { the cake with confidence } .
+They showcased [ the cake with chocolate frosting ] .
+I spotted { the puzzle piece with relief } .
+I spotted [ the puzzle piece with scuffs ] .
+Lucas thanked { the old lady from afar } .
+Lucas thanked [ the old lady from France ] .
+Joanna drove { to the park in annoyance } .
+Joanna drove [ to the park in Boston ] .
+Rose grabbed { the teddy bear in a rush } .
+Rose grabbed [ the teddy bear in a suit ] .
+I drew { a picture of a bunny in a notebook } .
+I drew [ a picture of a bunny in the forest ] .
+Veronica expressed { her interest in class } .
+Veronica expressed [ her interest in makeup ] .
+The girl ate { the ice cream in the night } .
+The girl ate [ the ice cream in the fridge ] .
+Libby is undergoing { treatment for a while } .
+Libby is undergoing [ treatment for a cold ] .
+Justin ran into { the pole by chance } .
+Justin ran into [ the pole by the store ] .
+Thomas created { a presentation on Tuesday } .
+Thomas created [ a presentation on plants ] .
+Cynthia watched { a video on vacation } .
+Cynthia watched [ a video on cats ] .
+Ruth saw { Max and Jamie yesterday } .
+Ruth saw [ Max and Jamie laughed ] .
+Choose between a { breakfast burrito or peanut butter } and jelly sandwich .
+Choose between a [ hazelnut or peanut butter ] and jelly sandwich .
+Jim wanted to participate in { football or track } and field during high school .
+Jim wanted to participate in [ ice or field hockey ] and volleyball during high school .
+Kayla questioned { the law and fairness of the government } .
+Kayla questioned [ the law and order of the government ] .
+Anna had { burgers and chocolate ice cream } for dinner .
+Anna had [ burgers and fries ] for dinner .
+She put names { in order to be fair } .
+She announced names [ in order to be fair ] .
+Valerie noticed { the boy with surprise } .
+Valerie noticed [ the boy with freckles ] .
+I inspected { the car with skepticism } .
+I inspected [ the car with scratches ] .
+Michelle drove by { the lake in a hurry } .
+Michelle drove by [ the lake in Beaverton ] .
+Sam took { the test from home } .
+Sam took [ the test from chemistry class ] .
+David went to { the supermarket on Tuesday } .
+David went to [ the supermarket on 82nd ] .
+I will be at { the coffee shop by eight } .
+I will be at [ the coffee shop by the red building ] .
+She glanced at { the bag for a brief moment } .
+She glanced at [ the bag for sale ] .
+He painted { a picture of a squirrel from memory } .
+He painted { a picture of a squirrel from Mt. Tabor } .
+I laughed at { an old picture in embarrassment } .
+I laughed at [ an old picture in the yearbook ] .
+Rengar jumped in { a bush by accident } .
+Rengar jumped in [ a bush by the road ] .
+Justin paints { plants from time to time } .
+Justin paints [ plants from his garden ] .
+Yuna bought { the dress without looking at her bank statement } .
+Yuna bought [ the dress without straps ] .
+I am desperately craving { pizza or chicken } and waffles .
+I am desperately craving [ chocolate or blueberry pancakes ] and waffles .
+I rushed to { my class in pajamas } .
+I rushed to [ my class in Green Hall ] .
+He quickly devoured { his leftovers from the comfort of his couch } .
+He quickly devoured [ his leftovers from Pastini ] .
+She was enraged by { the poor internet connection at that moment } .
+She was enraged by [ the poor internet connection at home ] .
+I will stop ordering { sugary drinks from now on } .
+I will stop ordering [ sugary drinks from Starbucks ] .
+Nari usually orders { fettuccine alfredo and soup } or salad .
+Nari usually orders [ soup and salad ] or pasta .
+Phuong edited { a documentary on Premiere } .
+Phuong edited [ a documentary on climate change ] .
+I binge watched { a movie on Netflix } .
+I binge watched [ a movie on fast food ] .
+Bella went to { the hotel by car } .
+Bella went to [ the hotel by the beach ] .
+His mother cooked { dinner on Thanksgiving night } .
+His mother cooked [ dinner on the grill ] .
+He delivered { the food with enthusiasm } .
+He delivered [ the food with drinks ] .
+She published { the first issue of her webtoon with nervousness } .
+She published [ the first issue of her webtoon with color ] .
+Shayla turned in { the storyboard with disappointment } .
+Shayla turned in [ the storyboard with illegible sketches ] .
+Beatrice fell down { the tree with surprise } .
+Beatrice fell down [ the tree with cherry blossoms ] .
+Lia turned in { her assignment late on Tuesday night } .
+Lia turned in [ her assignment late on microbiomes ] .
+Rose smiled at { her old photos with nostalgia } .
+Rose smiled at [ her old photos with her family ] .
+He stormed out of { the room in anger } .
+He stormed out of [ the room in the student center ] .
+She was rushed to { the emergency room at night } .
+She was rushed to [ the emergency room at the Mount Scott Hospital ] .
+She carefully painted [ her nails with pink nail polish ] .
+She carefully painted { her nails with precision and care } .
+She registered for { courses in a hurry } .
+She registered for [ courses in Korean ] .
+I forgot to water { my succulents by accident } .
+I forgot to water [ my succulents by the window ] .
+She traveled to [ her high school friend’s house by Busan ] .
+She traveled to { her high school friend’s house by plane } .
+I ran into my friend at { New Seasons by coincidence } .
+I ran into my friend at [ New Seasons by the froyo place ] .
+I am craving { chocolate or cookies } and cream ice cream .
+I am craving [ strawberry or pineapple popsicles ] and mango ice cream .
+Chris wants to eat { lasagna or spaghetti } and meatballs .
+Chris wants to eat [ garlic or sourdough bread ] and meatballs .
+Justine shared [ a chocolate chip cookie with ice cream ] .
+Justine shared { a chocolate chip cookie with a friend } .
+Ryan went on [ a walk with his cat ] .
+Ryan went on { a walk with high hopes } .
+The girl couldn’t stop staring at [ the dog with the bowtie ] .
+The girl couldn’t stop staring at { the dog with adoration } .
+I had { a question on Wednesday } . 
+I had [ a question on integrals ] .
+Erin was { the keynote speaker for certain } . 
+Erin was [ the keynote speaker for the hackathon ] .
+She emphasized { the importance of leadership in an instant } .
+She emphasized [ the importance of leadership in her presentation ] .
+He took [ a picture of the succulent in the glass jar ] .
+He took { a picture of the succulent in addition to the flower } .
+Michelle offered to attend [ the fair in Orange County ] .
+Michelle offered to attend { the fair in advance } .
+Vicki suggested that they start with [ an icebreaker at their team meeting ] .
+Vicki suggested that they start with { an icebreaker at the last minute } .
+Alex loved { his team from the bottom of his heart } .
+Alex loved [ his team from Etsy ] .
+Anna works on { her assignment from time to time } .
+Anna works on [ her assignment from art class ] .
+Kathy is working on [ a project under the supervision of her manager Linda ] .
+Kathy is working on { a project under immense pressure } .
+Sabrina ran down { the stairs in excitement } .
+Sabrina ran down [ the stairs in her house ] .
+Yeji checked on [ the patient with a kidney infection ] .
+Yeji checked on { the patient with her assistant } . 
+Gabriel fell asleep on { the couch by himself } .
+Gabriel fell asleep on [ the couch by the TV ] .
+She ordered [ a salad with ranch dressing ] .
+She ordered { a salad with her friend } .
+Joan couldn’t wait to show off [ her new shoes with rhinestones ] .
+Joan couldn’t wait to show off { her new shoes with her favorite outfit } .
+She blasted [ the song Go Crazy with the heavy bass ] .
+She blasted { the song Go Crazy with a smile on her face } .
+He took [ a video of the crashing waves at the beach ] .
+He took { a video of the crashing waves at noon } .
+I couldn’t choose between [ chocolate or peanut butter cookies ] and cupcakes .
+I couldn’t choose between { chocolates or Salt } and Straw ice cream .
+I wanted to buy a [ floral or striped shirt ] and jeans .
+I wanted to buy a { floral or black } and white top .
+I love going to [ Tea Chai Te on Sellwood ] .
+I love going to { Tea Chai Te on Wednesdays } .
+She freaked out because she couldn’t catch [ that spider on the wall ] .
+She freaked out because she couldn’t catch { that spider on Monday } .
+I wanted to buy [ wings with parmesan garlic sauce ] .
+I wanted to buy { wings with my friends } .
+She tripped on [ the curb at Sunnyside ] .
+She tripped on { the curb at dusk } .
+He missed { the exit on a whim } .
+He missed [ the exit on Highway 205 ] .
+Wendy was stressfully studying for { her final in a hurry } .
+Wendy was stressfully studying for [ her final in chemistry ] .
+Jose was talking about [ his project on cybersecurity ] .
+Jose was talking about { his project on Zoom } .
+I couldn’t wait to see [ the monkey on the swings ] .
+I couldn’t wait to see { the monkey on Friday } .
+She stared at [ the sky with the pinkish orange hues ] .
+She stared at { the sky with a smile on her face } .
+Her dad memorized { the directions to the coffee shop by heart } .
+Her dad memorized [ the directions to the coffee shop by Pioneer Square ] .
+You won’t be allowed to play { games on my watch } .
+You won’t be allowed to play [ games on your PS4 ] .
+She admired [ the cherry blossoms in the quad ] .
+She admired { the cherry blossoms in admiration } .
+The teacher emphasized to meet in { the gym on time } .
+The teacher emphasized to meet in [ the gym on East Campus ] .
+I stared at [ the necklace with star shaped diamonds ] .
+I stared at { the necklace with my sister } .
+Roman got an invite to [ the party at Scott’s place ] .
+Roman got an invite to { the party at a price } .
+The team successfully launched [ a product in the makeup industry ] .
+The team successfully launched { a product in an unexpected way } .
+I have enough money to buy a [ Logitech or Apple keyboard ] and laptop stand .
+I have enough money to buy a { monitor or Apple keyboard } and mouse .
+She watched as the firefighter entered [ the room in flames ] .
+She watched as the firefighter entered { the room in nervous anticipation } .
+I am so excited to pick up { my package from the post office } .
+I am so excited to pick up [ my package from Aritzia ] .
+He asked his mom to make [ tuna or spam kimchi fried rice ] and kimbap .
+He asked his mom to make { kimchi stew or ramen } and kimbap .
+She visited her local beauty store to buy [ brown or blonde hair dye ] and toner .
+She visited her local beauty store to buy { brown hair dye or bleach } and toner .
+I wanted to buy { a trampoline with my siblings } .
+I wanted to buy [ a trampoline with nets ] . 
+I went to the bakery to order [ chocolate cake with buttercream frosting ] .
+I went to the bakery to order { chocolate cake with my family } .
+He handed his friend { a packet with enthusiasm } .
+He handed his friend [ a packet with the script ] .
+He read { the email with nervous excitement } .
+He read [ the email with an attached file ] .
+They met at [ the restaurant in the Marriott Hotel ] .
+They met at { the restaurant in time for happy hour } .
+She angrily yelled at [ her friend in the tan suit ] .
+She angrily yelled at { her friend in pure rage } .
+His friend happily popped [ the bottle of champagne with a red ribbon ] .
+His friend happily popped { the bottle of champagne with eagerness } .
+He cried on [ the bridge in Gangnam ] . 
+He cried on { the bridge in pure agony } .
+She desperately wanted to eat { potato chips or cheese } and crackers .
+She desperately wanted to eat [ swiss or cheddar cheese ] and crackers .
+The boy happily ate [ the bun with red bean filling ] .
+The boy happily ate { the bun with a smile on his face } .
+He took a photo of [ the vases from the Joseon Dynasty ] .
+He took a photo of { the vases from afar } .
+He fell into [ the river by the campsite ] .
+He fell into { the river by accident } .
+She gave [ a presentation on design thinking ] .
+She gave { a presentation on a whim } .
+I can’t wait to go to [ the bakery on 82nd ] .
+I can’t wait to go to { the bakery on their opening day } .
+The server recommended us to get [ marionberry or apple pie ] and vanilla ice cream .
+The server recommended us to get { marionberry pie or cookies } and cream ice cream .
+He spotted [ the girl with red hair ] .
+He spotted { the girl with surprise } .
+She ran out of { the building with tears in her eyes } .
+She ran out of [ the building with high ceilings ] .
+They drove to [ the park at Yosemite ] .
+They drove to { the park at high speed } .
+I want to go shopping for [ a skirt with pockets ] .
+I want to go shopping for { a skirt with my friend } .
+I wanted to order [ pizza with alfredo sauce and sausage ] .
+I wanted to order { pizza with my roommates } .
+He bought [ the book with gold lettering ] .
+He bought { the book with his classmate } .
