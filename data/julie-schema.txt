@@ -198,3 +198,43 @@ She visited her local beauty store to buy [ brown or blonde hair dye ] and toner
 She visited her local beauty store to buy { brown hair dye or bleach } and toner .
 I wanted to buy { a trampoline with my siblings } .
 I wanted to buy [ a trampoline with nets ] . 
+I went to the bakery to order [ chocolate cake with buttercream frosting ] .
+I went to the bakery to order { chocolate cake with my family } .
+He handed his friend { a packet with enthusiasm } .
+He handed his friend [ a packet with the script ] .
+He read { the email with nervous excitement } .
+He read [ the email with an attached file ] .
+They met at [ the restaurant in the Marriott Hotel ] .
+They met at { the restaurant in time for happy hour } .
+She angrily yelled at [ her friend in the tan suit ] .
+She angrily yelled at { her friend in pure rage } .
+His friend happily popped [ the bottle of champagne with a red ribbon ] .
+His friend happily popped { the bottle of champagne with eagerness } .
+He cried on [ the bridge in Gangnam ] . 
+He cried on { the bridge in pure agony } .
+She desperately wanted to eat { potato chips or cheese } and crackers .
+She desperately wanted to eat [ swiss or cheddar cheese ] and crackers .
+The boy happily ate [ the bun with red bean filling ] .
+The boy happily ate { the bun with a smile on his face } .
+He took a photo of [ the vases from the Joseon Dynasty ] .
+He took a photo of { the vases from afar } .
+He fell into [ the river by the campsite ] .
+He fell into { the river by accident } .
+She gave [ a presentation on design thinking ] .
+She gave { a presentation on a whim } .
+I can’t wait to go to [ the bakery on 82nd ] .
+I can’t wait to go to { the bakery on their opening day } .
+The server recommended us to get [ marionberry or apple pie ] and vanilla ice cream .
+The server recommended us to get { marionberry pie or cookies } and cream ice cream .
+He spotted [ the girl with red hair ] .
+He spotted { the girl with surprise } .
+She ran out of { the building with tears in her eyes } .
+She ran out of [ the building with high ceilings ] .
+They drove to [ the park at Yosemite ] .
+They drove to { the park at high speed } .
+I want to go shopping for [ a skirt with pockets ] .
+I want to go shopping for { a skirt with my friend } .
+I wanted to order [ pizza with alfredo sauce and sausage ] .
+I wanted to order { pizza with my roommates } .
+He bought [ the book with gold lettering ] .
+He bought { the book with his classmate } .
