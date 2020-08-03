@@ -1,19 +1,20 @@
-import benepar
+from supar import Parser
 import sys
 from schemata.parse.util import ConstituencyParserWrapper
 
-class BerkeleyParser(ConstituencyParserWrapper):
-    def __init__(self, model = "benepar_en2"):
-        super().__init__(benepar.Parser(model))
+class suPar(ConstituencyParserWrapper):
+    def __init__(self, model = "crf-con-en"):
+        super().__init__(Parser.load(model))
 
     def _run_base_parser(self, sent):
-        tree = self.base_parser.parse(sent)
+        dataset = self.base_parser.predict([sent.split()], verbose=False)
+        tree = dataset.trees[0]
         return tree
 
 if __name__ == '__main__':
     sentfile = sys.argv[1]
     outfile = sys.argv[2]
-    parser = BerkeleyParser()
+    parser = suPar()
     with open(sentfile) as reader:
         with open(outfile, 'w') as writer:
             for line in reader:
@@ -21,5 +22,3 @@ if __name__ == '__main__':
                 output = parser(line)
                 writer.write(str(output))
                 writer.write('\n')
-        
-    
