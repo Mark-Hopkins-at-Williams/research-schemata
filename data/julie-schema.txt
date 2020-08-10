@@ -238,3 +238,43 @@ I wanted to order [ pizza with alfredo sauce and sausage ] .
 I wanted to order { pizza with my roommates } .
 He bought [ the book with gold lettering ] .
 He bought { the book with his classmate } .
+She went to { the bar with her best friends } .
+She went to [ the bar with the bright neon sign ] .
+She accidentally liked { the photo with dismay } .
+She accidentally liked [ the photo with her high school enemy ] .
+He gave her [ the handkerchief with embroidered butterflies ] .
+He gave her { the handkerchief with excitement } .
+They filmed [ a movie on coral reefs ] .
+They filmed { a movie on Christmas Day } .
+He met his friend at [ the front of the apartment on Forest Way ] .
+He met his friend at { the front of the apartment on New Years Eve } .
+Sam handed her [ the packet with the answers to their homework assignment ] .
+Sam handed her { the packet with high hopes } .
+Nancy gave him [ the notebook with her completed drawings ] .
+Nancy gave him { the notebook with excitement } .
+He took her to [ the restaurant with a fancy interior ] .
+He took her to { the restaurant with his close friends } .
+He saw [ the woman in a hanbok ] .
+He saw { the woman in the park } .
+Ryujin explored [ the apartment with modern furniture ] .
+Ryujin explored { the apartment with his girlfriend } .
+Matthew left { the classroom in a good mood } .
+Matthew left [ the classroom in the East Wing ] .
+She attended { the review sessions on Saturday mornings } .
+She attended [ the review sessions on general chemistry ] .
+Kim ruthlessly stole { the antique music box from the cabinet } .
+Kim ruthlessly stole [ the antique music box from 18th century Switzerland ] .
+They had many [ fights over face cream ] .
+They had many { fights over the course of 5 days } .
+She had to harvest lettuce from [ the garden on East Campus ] .
+She had to harvest lettuce from { the garden on Saturday } .
+Lisa focused on [ the poster with holographic lettering ] .
+Lisa focused on { the poster with concern } .
+Mandy painted [ her nails with gold glitter polish ] .
+Mandy painted { her nails with her sister } .
+I wanted to eat [ kimchi or bacon fried rice ] and egg rolls .
+I wanted to eat { kimchi fried rice or egg rolls } and fish sauce .
+They went shopping for [ earrings with asymmetrical string beads ] .
+They went shopping for { earrings with a particular style in mind } .
+Justine bought [ a red dress with a bow detail ] .
+Justine bought { a red dress with anticipation } .

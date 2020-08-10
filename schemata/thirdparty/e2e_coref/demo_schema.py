@@ -4,8 +4,8 @@ from __future__ import print_function
 
 from six.moves import input
 import tensorflow as tf
-import coref_model as cm
-import util
+import schemata.thirdparty.e2e_coref.coref_model as cm
+from schemata.thirdparty.e2e_coref import util
 import json
 
 import nltk
@@ -151,7 +151,7 @@ def compare(set1, set2):
     print(str(len(difference2)) + " subject differences: " + str(difference2))
 
 
-def large_scale_pairs(verb_json, adj_json, limit):
+def large_scale_pairs(verb_json, adj_json):
     with open(verb_json, 'r') as verb_file:
         verbs = json.load(verb_file)
     with open(adj_json, 'r') as adj_file:
@@ -160,11 +160,8 @@ def large_scale_pairs(verb_json, adj_json, limit):
     pairs = []
     count = 0
     for verb in verbs:
-        for n in range(2):
-            if count < limit:  # prevent index out of bounds - len(adjs) = 18350
-                adj_dict = adjs[count]
-                pairs.append((verb["infinitive"], adj_dict["base"]))
-                count += 1
+        for adj in adjs:
+            pairs.append((verb["infinitive"], adj["base"]))
     return pairs
 
 
