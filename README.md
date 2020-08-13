@@ -39,6 +39,11 @@ Then in a Python interpreter, do the following:
     evaluate(schemas, BerkeleyParser())        
 
 
+### To use Spacy parser
+
+Download the models:
+
+    python -m spacy download en_core_web_sm
     
 ## Dockerizing the thirdparty components
 
