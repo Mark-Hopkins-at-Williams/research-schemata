@@ -45,6 +45,20 @@ Download the models:
 
     python -m spacy download en_core_web_sm
     
+    
+### To install/use Stanford parser
+
+From Terminal:
+
+    pip install stanza
+
+In a Python interpreter:
+
+    >>> import stanza
+    >>> stanza.install_corenlp()
+    
+
+    
 ## Dockerizing the thirdparty components
 
 ### To Dockerize e2e-coref (Kenton Lee)
