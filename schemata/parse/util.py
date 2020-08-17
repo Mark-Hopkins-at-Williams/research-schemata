@@ -59,7 +59,6 @@ class DependencyParserWrapper:
     
     @staticmethod
     def compute_spans(tree):
-        print(tree)
         # takes a dictionary and returns a list of lists representing
         # constituents
         spans = []
