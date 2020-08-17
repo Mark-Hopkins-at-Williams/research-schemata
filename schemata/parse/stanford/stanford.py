@@ -13,12 +13,16 @@ def get_heads(dicts):
     return ls
 
 class StanfordParser(DependencyParserWrapper):
+    def __init__(self):
+        super().__init__()
+        self.client = CoreNLPClient()
+
     def __call__(self, sent):
-        return self.get_spans(sent)
+        return self.get_spans(sent)    
 
     def get_spans(self, sent):
-        with CoreNLPClient() as client:
-            ann = client.annotate(sent, annotators='parse', output_format='json')
+        #with CoreNLPClient() as client:
+        ann = self.client.annotate(sent, annotators='parse', output_format='json')
         dependencies_list = ann['sentences'][0]['basicDependencies']
         heads = get_heads(dependencies_list)
         tree = DependencyParserWrapper.head_to_tree(heads)
