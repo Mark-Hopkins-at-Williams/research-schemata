@@ -358,3 +358,43 @@ They walked on { the trail at noon } .
 They walked on [ the trail at Multnomah Falls ] .
 The boys played [ frisbee at the park ] .
 The boys played { frisbee at midnight } .
+I want to buy [ pink or blue eyeshadow ] and blush .
+I want to buy { pink eyeshadow or highlighter } and blush .
+She jumped in [ the pool with rainbow lights ] .
+She jumped in { the pool with exhilaration } .
+I listened to { the song with my earbuds } .
+I listened to [ the song with a sick guitar solo ] .
+Rachel would never forget { her speech for the rest of her life } .
+Rachel would never forget [ her speech for her wedding ] .
+She watered [ the flower with bright pink petals ] .
+She watered { the flower with her water bottle } .
+I can’t wait to visit { WSU in January } .
+I can’t wait to visit [ WSU in Pullman ] .
+We went for a swim in [ the lake with catfish ] .
+We went for a swim in { the lake with our friends } .
+I drove to [ the high school in Gladstone ] .
+I drove to { the high school in a rush } .
+Her little brother went to [ a party at Chuck E. Cheese ] .
+Her little brother went to { a party at 3pm } .
+Shane refused to eat [ the pizza with pineapples ] . 
+Shane refused to eat { the pizza with persistence } . 
+I bought [ a case with a glitter design ] .
+I bought { a case with a certain design in mind } .
+She visited { her favorite restaurant in the world } . 
+She visited [ her favorite restaurant in Portland ] .
+I walked into { the airport in a hazmat suit } .
+I walked into [ the airport in Incheon ] .
+She curled { her hair with a curling iron } .
+She curled [ her hair with many split ends ] .
+Andrew opened [ the chip bag with an abnormally tight seal ] .
+Andrew opened { the chip bag with his friends } .
+I wanted to snack on { cheetos or salt } and vinegar potato chips .
+I wanted to snack on [ spicy or extra hot cheetos ] and potato chips .
+Lisa wanted to make [ a pie with fresh fruit ] .
+Lisa wanted to make { a pie with her family } .
+I ordered { a mocha at 8am } .
+I ordered [ a mocha at Starbucks ] .
+She saw [ the cat with bright green eyes ] .
+She saw { the cat with her brother } .
+My little sister made { slime with her friends } .
+My little sister made [ slime with styrofoam beads ] .

@@ -1,0 +1,8 @@
+FROM python:3.7
+COPY . /app
+WORKDIR /app
+RUN pip install -U spacy
+RUN python -m spacy download en_core_web_sm
+RUN pip install -e /app
+ENTRYPOINT ["python", "/app/schemata/parse/spacy/run_parser.py"]
+CMD ["data/pp1.asc"]

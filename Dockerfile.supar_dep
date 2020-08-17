@@ -1,0 +1,8 @@
+FROM python:3.7
+COPY . /app
+WORKDIR /app
+RUN pip install tensorflow==1.15.0
+RUN pip install supar==0.0.1
+RUN pip install -e /app
+ENTRYPOINT ["python", "/app/schemata/parse/supar/run_dep_parser.py"]
+CMD ["data/pp1.asc"]
