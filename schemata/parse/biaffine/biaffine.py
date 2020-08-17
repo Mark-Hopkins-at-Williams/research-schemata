@@ -5,9 +5,6 @@ class BiaffineParser(DependencyParserWrapper):
     def __init__(self):
         super().__init__()
         self.parser = Predictor.from_path("https://storage.googleapis.com/allennlp-public-models/biaffine-dependency-parser-ptb-2020.04.06.tar.gz")
-
-    def __call__(self, sent):
-        return self.get_spans(sent)
         
     def get_spans(self, sent):
         json_parse = self.parser.predict(sentence=sent)
