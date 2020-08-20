@@ -398,3 +398,43 @@ She saw [ the cat with bright green eyes ] .
 She saw { the cat with her brother } .
 My little sister made { slime with her friends } .
 My little sister made [ slime with styrofoam beads ] .
+He dropped [ the mug with fancy calligraphy ] .
+He dropped { the mug with surprise } .
+She drove [ her car with leather seats ] .
+She drove { her car with caution } .
+He got { coffee from his co-worker } .
+He got [ coffee from Peets ] . 
+Joan walked to [ the bus stop by the coffee shop ] .
+Joan walked to { the bus stop by herself } .
+The little boy wore { the tie with pride } .
+The little boy wore [ the tie with a plaid design ] .
+She had to visit [ her friend’s shop by Target ] .
+She had to visit { her friend’s shop by the end of the week } .
+My teacher gave { a strict deadline for us } .
+My teacher gave [ a strict deadline for our assignment ] .
+They found [ the hidden thrift shop on Sandy Blvd ] .
+They found { the hidden thrift shop on a whim } .
+The kids walked on [ the street with big houses ] .
+The kids walked on { the street with big dreams } .
+His friend threw { a party at 7pm } .
+His friend threw [ a party at his house ] .
+He watched [ the documentary on birds ] .
+He watched { the documentary on a Sunday night } .
+They ordered [ ramen with shoyu pork ] .
+They ordered { ramen with their parents } .
+He boarded [ the bus to Gangneung ] .
+He boarded { the bus to see his parents } .
+She quickly finished [ the assignment for History ] .
+She quickly finished { the assignment for her friend } .
+She looked at { the man with astonishment } .
+She looked at [ the man with shaggy brown hair ] .
+Louis walked [ the dog with puffy hair ] .
+Louis walked { the dog with his girlfriend } .
+They had [ their first date at the park ] .
+They had { their first date at 3pm } .
+Karla carried [ the toys with flashing lights ] .
+Karla carried { the toys with her little brother } .
+Ryu wore [ crocs with strawberry jibbitz ] .
+Ryu wore { crocs with his best friend } .
+Dae-Oh wanted to eat [ vanilla or chocolate ice cream ] and cookies .
+Dae-Oh wanted to eat { vanilla ice cream or peanut butter } and chocolate chip cookies .
